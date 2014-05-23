@@ -2,7 +2,7 @@ mint16 to mint17
 ==============
 
 ####update linux mint16 petra to mint17 qiana 
-(the 'evil' way - savety not guaranteed)
+(the 'evil' way - safety not guaranteed)
 
 1.) open '/etc/apt/sources.list.d/official-package-repositories.list' with your fav. texteditor, e.g. :
 ```bash
